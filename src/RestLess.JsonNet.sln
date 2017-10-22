@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLess.JsonNet", "RestLess.JsonNet\RestLess.JsonNet.csproj", "{BEF72BB9-7B89-4008-9129-A129742A50CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLess.JsonNet.Tests", "..\RestLess.JsonNet.Tests\RestLess.JsonNet.Tests.csproj", "{785D5595-1D26-4027-8F45-3C8B03A66031}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLess.JsonNet.Tests", "RestLess.JsonNet.Tests\RestLess.JsonNet.Tests.csproj", "{785D5595-1D26-4027-8F45-3C8B03A66031}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
