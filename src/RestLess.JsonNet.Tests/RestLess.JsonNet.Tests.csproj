@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\RestLess.JsonNet\RestLess.JsonNet.csproj" />
+    <ProjectReference Include="..\RestLess.JsonNet\RestLess.JsonNet.csproj" />
   </ItemGroup>
 
 </Project>
