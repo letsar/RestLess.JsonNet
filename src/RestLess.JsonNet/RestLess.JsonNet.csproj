@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <Authors>Romain Rastel</Authors>
+    <Company>Romain Rastel</Company>
+    <Copyright>Romain Rastel</Copyright>
+    <PackageTags>restless, json, rest</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/letsar/RestLess.JsonNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/letsar/RestLess.JsonNet</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/letsar/RestLess.JsonNet/blob/master/LICENSE</PackageLicenseUrl>
+    <Description>Json formatters for RestLess using Json.Net</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="RestLess.Core" Version="0.4.0" />
+  </ItemGroup>
+
+</Project>

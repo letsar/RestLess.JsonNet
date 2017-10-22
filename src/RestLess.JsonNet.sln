@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLess.JsonNet", "RestLess.JsonNet\RestLess.JsonNet.csproj", "{BEF72BB9-7B89-4008-9129-A129742A50CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLess.JsonNet.Tests", "..\RestLess.JsonNet.Tests\RestLess.JsonNet.Tests.csproj", "{785D5595-1D26-4027-8F45-3C8B03A66031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF72BB9-7B89-4008-9129-A129742A50CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF72BB9-7B89-4008-9129-A129742A50CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF72BB9-7B89-4008-9129-A129742A50CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF72BB9-7B89-4008-9129-A129742A50CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785D5595-1D26-4027-8F45-3C8B03A66031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785D5595-1D26-4027-8F45-3C8B03A66031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785D5595-1D26-4027-8F45-3C8B03A66031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785D5595-1D26-4027-8F45-3C8B03A66031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184C8E6E-37C2-49C5-8EB5-B9E8F23767A3}
+	EndGlobalSection
+EndGlobal
